@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marvelousaditya
-- 👀 I’m interested in ...DevOps and Android Development
-- 🌱 I’m currently learning ...DevOps
+- 👀 I’m interested in ...DevOps and Web Development
+- 🌱 I’m currently learning ...WebDev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...marvelousaditya@outlook.com
 - 
